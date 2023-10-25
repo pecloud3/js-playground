@@ -43,3 +43,4 @@ jobs:
       run: |
         chmod u+x ./node_modules/.bin/*
         npm test
+        
